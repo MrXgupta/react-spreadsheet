@@ -1,0 +1,61 @@
+NOTES.md
+frontend/node_modules
+backend/node_modules
+backend/env
+# Ignore environment files
+# Ignore environment files
+# Ignore build directories
+frontend/dist
+# Ignore log files
+*.log
+# Ignore temporary files
+*.tmp
+# Ignore system files
+.DS_Store
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+# Ignore Python cache files
+__pycache__/
+# Ignore Python virtual environment
+venv/
+# Ignore database files
+*.sqlite3
+# Ignore coverage reports
+coverage/
+# Ignore test output
+test-output/
+# Ignore build artifacts
+build/
+# Ignore Docker files
+docker-compose.override.yml
+# Ignore configuration files
+config.json
+# Ignore sensitive files
+.env
+# Ignore documentation files
+docs/
+# Ignore package lock files
+package-lock.json
+# Ignore yarn lock files
+yarn.lock
+# Ignore npm debug log files
+npm-debug.log
+# Ignore yarn debug log files
+yarn-debug.log
+# Ignore temporary files created by editors
+*.swp
+# Ignore backup files
+*~
+# Ignore compiled files
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore coverage files
+coverage.xml
+# Ignore specific IDE files
+*.iml
+# Ignore specific cache files
+.cache/
+# Ignore specific build files
+dist/
